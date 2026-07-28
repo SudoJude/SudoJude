@@ -31,8 +31,8 @@ I work at the intersection of physical design, engineering, and open-source soft
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudoJude&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" alt="Jude's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudoJude&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SudoJude&show_icons=true&theme=dark&hide_border=true" alt="Jude's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudoJude&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -41,6 +41,6 @@ I work at the intersection of physical design, engineering, and open-source soft
 
 <p align="left">
   <a href="https://judemyers.eu"><img src="https://img.shields.io/badge/Website-judemyers.eu-111111?style=flat-square&logo=firefox&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Profile-111111?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM-HANDLE"><img src="https://img.shields.io/badge/Instagram-Design-111111?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/judemyers"><img src="https://img.shields.io/badge/LinkedIn-Profile-111111?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/judemyersdesign"><img src="https://img.shields.io/badge/Instagram-judemyersdesign-111111?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
