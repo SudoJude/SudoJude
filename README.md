@@ -28,15 +28,6 @@ I work at the intersection of physical design, engineering, and open-source soft
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudoJude&show_icons=true&theme=dark&hide_border=true" alt="Jude's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudoJude&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 🌐 Connect
 
 <p align="left">
