@@ -1,6 +1,6 @@
-# Hi, I'm Jude 👋
+# Hello!, I'm Jude 👋
 
-### Product Design & Technology Student | Hardware & Automotive Enthusiast
+## Product Design & Technology Student
 
 I work at the intersection of physical design, engineering, and open-source software. Currently focusing on CAD workflows, custom hardware projects, and building lightweight utilities.
 
@@ -8,23 +8,7 @@ I work at the intersection of physical design, engineering, and open-source soft
 
 ### 🔨 Current Project
 
-- 📹 **[toDPG](https://github.com/SudoJude/toDPG)** — A lightweight utility for converting standard MP4 video files into DPG format for playback on Nintendo DS hardware.
-
----
-
-### 🛠️ Tools & Stack
-
-**Design & CAD**
-![FreeCAD](https://img.shields.io/badge/FreeCAD-111111?style=flat-square&logo=freecad&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-111111?style=flat-square&logo=blender&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-111111?style=flat-square&logo=inkscape&logoColor=white)
-![Affinity](https://img.shields.io/badge/Affinity-111111?style=flat-square&logo=affinity&logoColor=white)
-
-**Environment & Dev**
-![Fedora](https://img.shields.io/badge/Fedora-111111?style=flat-square&logo=fedora&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
+**[toDPG](https://github.com/SudoJude/toDPG)** - A lightweight utility for converting standard MP4 video files into DPG format for playback on Nintendo DS hardware.
 
 ---
 
