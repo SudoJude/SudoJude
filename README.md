@@ -4,7 +4,7 @@ I'm a product designer and full-stack software developer.
 
 ## 🛠️ My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=astro,blender,cloudfare,css,figma,git,html,js,linux,py,ts,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,blender,css,figma,git,html,js,linux,py,ts,wordpress)](https://skillicons.dev)
 
 ## 🌐 My Site
 My portfolio website with all my projects, blogs, photography, and art can be found [here](https://judemyers.eu)
