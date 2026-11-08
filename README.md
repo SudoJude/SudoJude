@@ -15,4 +15,4 @@ My portfolio website with all my projects, blogs, photography, and art can be fo
 
 ## 📫 How to Contact Me:
 -   [LinkedIn](https://www.linkedin.com/in/judemyers)
--   [Email](judejmyers@gmail.com)
+-   [Email](mailto:judejmyers@gmail.com)
